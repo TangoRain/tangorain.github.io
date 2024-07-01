@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osket developer</h1>
+<h1 align="center">Hi 👋, I'm TangoRain developer</h1>
 <h3 align="center">Ыeasoned developer with over 7 years journey in the coding universe. 👨‍💻 Passionate about Dart Flutter, JS, Python, and Go. Let's create magic together! 🚀✨</h3>
 
 
